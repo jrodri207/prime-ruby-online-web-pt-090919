@@ -4,7 +4,7 @@ def prime?(x)
       return true 
   else x % 2 == 1   
       return false 
-      
+      n = n / 2 
     end 
   end 
   
