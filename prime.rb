@@ -1,10 +1,10 @@
 def prime?(x)
-  i = 0 
   while true 
-  if i == 1 
+  if x == 1 
       return true 
-  else 
+  else x % 2 == 1   
       return false 
+      
     end 
   end 
   
