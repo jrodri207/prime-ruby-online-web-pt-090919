@@ -3,7 +3,7 @@ def prime?(x)
   while true 
   if i == 1 
       return true 
-    else 
+  else 
       return false 
     end 
   end 
